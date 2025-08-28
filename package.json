@@ -1,5 +1,5 @@
 {
-  "name": "fastify-arch",
+  "name": "fastify-cleanarch",
   "version": "1.0.0",
   "description": "clean architecture for node/fastify project",
   "license": "ISC",
